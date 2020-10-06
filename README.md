@@ -1,7 +1,7 @@
 # Portfolio
 High level Portfolio with links to projects
 
-##  [Database of Home Improvement Projects](https://github.com/PaulSkelly/hello-git)
+##  [Database of Home Improvement Projects](https://paulskelly.github.io/hello-git/)
 This database collects and tracks home improvement projects, and is written in C, as a struct of structs.
 
 ## Arduino soil moisture monitor
