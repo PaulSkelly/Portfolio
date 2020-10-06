@@ -7,5 +7,5 @@ This database collects and tracks home improvement projects, and is written in C
 ## Arduino soil moisture monitor
 This Arduino project records soil moisture content and puts the data out over a TCP server.
 
-## Test Page for my Github page
+### Test Page for my Github page
 I'm going to try to make a nice static HTML page for this project. 
